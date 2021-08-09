@@ -1,6 +1,8 @@
 # ReactExperiment
 This is a repository for experimenting with ReactJS and Ionic
 
+*MASTER BRANCH CONTAINS CODE TO PULL / CLONE*
+
 #1 Make sure you have Node.js installed
 
 #2 Make sure you have Ionic installed
